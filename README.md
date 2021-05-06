@@ -1,4 +1,4 @@
-## Hi there! My name is Daniel (aka Cyrano)
+# Hi there! My name is Daniel (aka Cyrano)
 ###### (there's a why I use Cyrano as a dev nickname, but it's beyond this quick intro 🙂)
 
 ## Who am I
