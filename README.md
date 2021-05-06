@@ -1,16 +1,34 @@
-### Hi there 👋
+## Hi there! My name is Daniel (aka Cyrano)
+###### (there's a why I use Cyrano as a dev nickname, but it's beyond this quick intro 🙂)
 
-<!--
-**cyranowebdev/cyranowebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I
 
-Here are some ideas to get you started:
+- I **actually** still don't know (and am working on figuring that out 🌙)
+- I live in Brazil and had **diverse job experiences** (also abroad) for a fair long time...
+- ...before starting a **full-stack developer course** at [Trybe](https://www.betrybe.com/) **(due jun2021)**.
+- I'm currently open for job opportunities as a **beginner web developer**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+  <img align="left" alt="HTML5" width="32px" src="./icons/html5.png" />
+  <img align="left" alt="CSS3" width="32px" src="./icons/css3.png" />
+  <img align="left" alt="JavaScript" width="32px" src="./icons/javascript.png" />
+<br />
+
+## Libs, services, software
+  <img align="left" alt="nodejs" width="32px" src="./icons/nodejs.png" />
+  <img align="left" alt="React" width="32px" src="./icons/react.png" />
+  <img align="left" alt="Jest" width="32px" src="./icons/jest.png" />
+  <img align="left" alt="mongodb" width="32px" src="./icons/mongodb.png" />
+  <img align="left" alt="sql" width="32px" src="./icons/sql.png" />
+<br/>
+
+## Tools
+  <img align="left" alt="Git" width="32px" src="./icons/git.png" />
+  <img align="left" alt="GitHub" width="32px" src="./icons/github.png" />
+  <img align="left" alt="Visual Studio Code" width="32px" src="./icons/vscode.png" />
+  <img align="left" alt="Terminal" width="32px" src="./icons/terminal.png" />
+<br/>
+
+## Contact me
+[<img align="left" alt="linkedIn" width="32px" src="./icons/linkedin.png" />](https://www.linkedin.com/in/danielmadsenmelo)
+[<img align="left" alt="email" width="32px" src="./icons/gmail.png" />](mailto:cyrano@cyranowebdev.com)
