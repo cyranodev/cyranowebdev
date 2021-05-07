@@ -1,13 +1,17 @@
-# Hi there! My name is Daniel (aka Cyrano)
+## Hi there! My name is Daniel (aka Cyrano)
 ##### (there's a why I use Cyrano as a dev nickname, but it's beyond this quick intro 🙂)
 
-## Who am I
+---------
 
-- I **actually** still don't know (and am working on figuring that out 🌙)
+### Who am I
+
+- Actually, I **still don't know** (but I'm ever working on figuring that out 🌙 ✨)
 - I live in Brazil and I've had **diverse job experiences** (including abroad) for a fair long time...
 - ...before starting a **full-stack developer course** at [**Trybe**](https://www.betrybe.com/) *(due jun2021)*.
 - I'm currently open for job opportunities as a **beginner web developer**.
 
+---------
+### Skills
 <table>
   <tr>
     <th>Languages</th>
@@ -38,6 +42,8 @@
   </tbody>
 </table>
 
-## Contact me
+----------
+
+### Contact me
 [<img align="left" alt="linkedIn" width="32px" src="./icons/linkedin.png" />](https://www.linkedin.com/in/danielmadsenmelo)
 [<img align="left" alt="email" width="32px" src="./icons/gmail.png" />](mailto:cyrano@cyranowebdev.com)
