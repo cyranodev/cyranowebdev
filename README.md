@@ -6,7 +6,7 @@
 ### Who am I
 
 - Actually, I **still don't know** (but I'm ever working on figuring that out 🌙 ✨)
-- Currently living in Brazil, I've had many **diverse job experiences** (including abroad)
+- Currently living in Brazil, I've had **diverse job experiences** (including abroad)
 - I **love technology**, and I'm moving from my former career to become a web developer
 - Concluding the **web developer course** at [**Trybe**](https://www.betrybe.com/) *(due jun2021)*
 - Looking for job opportunities as a **junior web developer**
