@@ -1,5 +1,5 @@
 ## Hi there! My name is Daniel (aka Cyrano)
-##### (there's a why I use Cyrano as a dev nickname, but it's beyond this quick intro 🙂)
+##### (there's a reason behind Cyrano as a dev nickname, but it's beyond this quick intro 🙂)
 
 ---------
 
