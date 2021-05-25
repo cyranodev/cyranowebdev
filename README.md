@@ -1,14 +1,14 @@
 ## Hi there! My name is Daniel (aka Cyrano)
-##### (there's a reason behind Cyrano as a dev nickname, but it's beyond this quick intro 🙂)
+#### (there's a reason behind Cyrano as a dev nickname, but it's beyond this quick intro 🙂)
 
 ---------
 
 ### Who am I
 
 - Actually, I **still don't know** (but I'm ever working on figuring that out 🌙 ✨)
-- I live in Brazil and I've had **diverse job experiences** (including abroad) for a fair long time...
-- ...before starting a **full-stack developer course** at [**Trybe**](https://www.betrybe.com/) *(due jun2021)*.
-- I'm currently open for job opportunities as a **beginner web developer**.
+- I love technology, I live in Brazil and I've had **diverse job experiences** (including abroad)...
+- ...and currently at the very end of my **web developer course** at [**Trybe**](https://www.betrybe.com/) *(due jun2021)*.
+- I am currently looking for job opportunities as a **junior web developer**.
 
 ---------
 ### Skills
