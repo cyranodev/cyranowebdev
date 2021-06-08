@@ -42,5 +42,6 @@
   </tbody>
 </table>
 
--------
-### Contact me: [<img alt="linkedIn" width="32px" src="./icons/linkedin.png" />](https://www.linkedin.com/in/danielmadsenmelo) [<img alt="email" width="32px" src="./icons/gmail.png" />](mailto:cyrano@cyranowebdev.com)
+## Contact
+[<img alt="email" width="32px" src="./icons/gmail.png" />](mailto:cyrano@cyranowebdev.com) [<img alt="linkedIn" width="32px" src="./icons/linkedin.png" />](https://www.linkedin.com/in/danielmadsenmelo)   
+
