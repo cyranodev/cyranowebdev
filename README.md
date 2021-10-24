@@ -4,7 +4,7 @@
 
 ## Who am I
 
-- Foreigner to every country -- stranger to no land 🌙 ✨
+- Foreigner to every country -- stranger to no land 🌏✨
 - Currently living in Brazil, I've had **diverse job experiences** (including abroad)
 - I **love technology**, and I'm moving from my former career to become a web developer
 - Concluding the **web developer course** at [**Trybe**](https://www.betrybe.com/) *(due jun2021)*
